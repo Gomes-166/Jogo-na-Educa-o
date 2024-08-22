@@ -18,23 +18,27 @@ TVS
 
  */
 
- @media screen and(min-width:320px) and (max-width:480px){
-    img{
-     width: 100vw;
-    }
+ 
 
-}
+@media screen and(max-width:480px){
+  main{
+  width:80vw;
+  }
 
-@media screen and (min-width:1025px) and (max-width:1200px){
- main{
-     width: 800px;
-
- }
-}
 @media screen and (min-width:481px) and (max-width:768px){
  main{
-   width:800px;
-   
+  width:80vw;
+      
+    }
+
  }
 
 }
+
+@media screen and(min-width:1025) and (max-width:1200px){
+main{
+   width: 80vw;
+
+}
+}
+
