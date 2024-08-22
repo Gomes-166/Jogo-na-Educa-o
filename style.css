@@ -21,7 +21,7 @@ main{
     padding-top: 10px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    min-width: 380px;
+    width: 80vw;
 
 }
 iframe{
@@ -44,10 +44,10 @@ body p{
     padding-left: 5px;
 }
 body{
-    width: 800px;
+    height: 100vh;
     margin: auto;
     background-color: aqua;
-    min-width: 380px;
+    
 }
 footer{
     background-color: rgb(4, 114, 114);
