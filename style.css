@@ -7,7 +7,7 @@
 header{
     background-image: url(foto\ 06.jfif);
     padding: 60px;
-    
+    margin-bottom: 20px;
 }
 h1{
     text-align: center;
@@ -16,14 +16,15 @@ h1{
 
 }
 main{
-   
-    background-color: aliceblue;
-    margin-top: 6%;
+    overflow: hidden;
+    margin: auto;
+    width: 60vw;
+    background-color: rgb(255, 255, 255);
     box-shadow:0px 0px 10px rgb(46, 46, 46);
+    padding-top: 10px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    width: 800px;
-    margin: auto;
+    
 
 }
 iframe{
@@ -45,11 +46,11 @@ body p{
     justify-content: left;
     padding-left: 5px;
 }
-body{
+html body{
     
-   
+    height: 100vh;
     background-color: aqua;
-    
+  
 }
 footer{
     background-color: rgb(4, 114, 114);
