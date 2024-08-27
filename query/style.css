@@ -22,7 +22,12 @@ TVS
 
 @media screen and(max-width:480px){
   main{
-  width:100vw;
+  width: 90vw;
+  }
+
+  body{
+  height: 100vh;
+  
   }
 
 @media screen and (min-width:481px) and (max-width:768px){
