@@ -5,6 +5,8 @@
 }
 
 header{
+    margin: auto;
+    width:800px;
     background-image: url(foto\ 06.jfif);
     padding: 60px;
     margin-bottom: 20px;
