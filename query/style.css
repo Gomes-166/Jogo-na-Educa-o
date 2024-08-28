@@ -22,11 +22,8 @@ TVS
 
 @media screen and (min-width:320px) and (max-width:480px){
 main{
-  width:80vw
+  width:90vw
   }
-img{
-  width: 100%;
-}
 
 }
 @media screen and (min-width:481px) and (max-width:768px){
