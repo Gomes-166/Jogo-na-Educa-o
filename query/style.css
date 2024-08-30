@@ -30,7 +30,9 @@ main{
    width: 60vw;
    }
    
-
+header p{
+   font-size: 50vw;
+}
 
 }
 @media screen and (min-width:481px) and (max-width:768px){
