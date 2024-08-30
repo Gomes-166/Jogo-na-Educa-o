@@ -31,7 +31,7 @@ main{
    }
    
 header p{
-   font-size: 50vw;
+  width:50vw;
 }
 
 }
