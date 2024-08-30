@@ -16,8 +16,8 @@ header{
 
 h1{
     text-align: center;
-    font-size: 3em;
-    text-shadow: green 2px 1px 2px;
+    font-size: 4em;
+    text-shadow: rgb(255, 255, 255) 2px 1px 2px;
 
 }
 main{
