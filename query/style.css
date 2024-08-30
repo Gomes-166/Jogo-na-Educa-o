@@ -30,8 +30,8 @@ main{
    width: 60vw;
    }
    
-header p{
-  width:50vw;
+h1{
+ font-size: 1em;
 }
 
 }
