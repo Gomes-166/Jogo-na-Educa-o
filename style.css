@@ -5,9 +5,12 @@
 }
 
 header{
+    width: 80vw;
     background-image: url(foto\ 06.jfif);
     padding: 60px;
-    margin-bottom: 20px;
+    margin: auto;
+    border-radius: 8px;
+  
 }
 h1{
     text-align: center;
@@ -16,7 +19,6 @@ h1{
 
 }
 main{
-   
     margin: auto;
     width: 80vw;
     background-color: rgb(255, 255, 255);
@@ -24,6 +26,7 @@ main{
     padding-top: 10px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    margin-top: 40px;
     
 
 }
