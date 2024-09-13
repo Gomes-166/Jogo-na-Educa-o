@@ -35,9 +35,12 @@ TVS
   }
   h1{
     font-size: 3em;
-    background-color: antiquewhite;
+    
   }
-   }
+  .item
+{
+  margin: auto;
+}   }
 
 
 @media screen and(min-width:1025){
