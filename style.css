@@ -25,7 +25,7 @@ menu a{
    
 }
 
-h1{ 
+h1{ text-justify: auto;
     margin-right: 40px;
     font-size: 2em;
     text-shadow: rgb(110, 110, 110) 2px 1px 2px;
