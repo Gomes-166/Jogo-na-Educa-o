@@ -5,7 +5,8 @@
 }
 
 .item{
-
+    flex-direction: column; 
+    
 }
 
 header{
